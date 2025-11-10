@@ -37,15 +37,14 @@ The goal is to predict the **estimated market price** of used cars in Indonesia 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/used-car-price-predictor.git
-cd used-car-price-predictor
+git clone https://github.com/donnycharles88/UTS_ML-Prediksi-Harga-Mobil-Bekas
+cd UTS_ML-Prediksi-Harga-Mobil-Bekas
 pip install -r requirements.txt
 ```
 
 If you don't have a requirements.txt yet, create it:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost streamlit joblib
-pip freeze > requirements.txt
 ```
 ## 🌐 Running the Streamlit App
 
